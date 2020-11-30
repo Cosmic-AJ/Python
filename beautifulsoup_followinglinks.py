@@ -3,7 +3,7 @@
 # is in a particular position relative to the first name in the list,
 # follow that link and repeat the process a number of times and 
 # report the last name you find
-# http://py4e-data.dr-chuck.net/known_by_Travis.html
+# the link that you want to use
 
 from urllib.request import urlopen
 from bs4 import BeautifulSoup
