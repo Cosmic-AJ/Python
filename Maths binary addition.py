@@ -5,8 +5,8 @@ Created on Fri Oct  9 12:20:18 2020
 @author: Ayush Jain
 """
 
-n = int(input('Number: '))
-m = int(input('Number: '))
+n = int(input('Enter 1 Number: '))
+m = int(input('Enter 2 Number: '))
 val = n
 valn = m
 a=""
