@@ -14,7 +14,7 @@ def computerGuess(lowval,highval,randnum,count=0):
     else:
         return -1
 
-randnum = random.randint(1,101)
+randnum = random.randint(1,201)
 count=0
 guess=-99
 while guess!=randnum:
