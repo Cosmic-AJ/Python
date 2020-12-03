@@ -4,6 +4,7 @@ Created on Mon Sep 28 20:31:27 2020
 
 @author: Ayush Jain
 """
+#creating olympic symbol using turtle
 
 import turtle
 
